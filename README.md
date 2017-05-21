@@ -87,7 +87,6 @@ L[F(A, B)] = F, A, B + merge((X, Y) + (Y, X))
 <br>
 <br>
 نسخه‌ی PDF این متن را می‌توانید از [اینجا](https://github.com/minam75/python_mro.github.io/raw/master/Research%20-%20Python%20MRO.pdf) دانلود کنید.
-
 ### منبع:
 [Python Tutorial: Understanding Python MRO - Class search path](https://makina-corpus.com/blog/metier/2014/python-tutorial-understanding-python-mro-class-search-path)
 
