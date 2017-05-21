@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+  font-family: 'XBZar';
+  src: url(https://fontlibrary.org/face/xb-zar);
+}
+h1, h2, h3, h4{
+  direction: rtl;
+  font-family: 'XBZar', serif;
+}
+p{
+  font-family: 'XBZar', serif;
+  font-weight: normal;
+  font-style: normal;
+  direction: rtl;
+}
